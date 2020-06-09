@@ -1,0 +1,24 @@
+/*Color*/
+body{
+    background-color: #222831;
+}
+.container{
+    background-color: #393e46;
+}
+
+/*Color*/
+
+
+/*Text-align = Table*/
+table,thead,tr,tbody,th,td {
+    text-align: center;
+}
+table {
+    table-layout: fixed;
+    word-wrap: break-word;
+}
+.table td {
+    text-align: center;
+}
+/*Text-align = Table*/
+
