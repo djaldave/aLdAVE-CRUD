@@ -16,6 +16,6 @@
 <div class="container jumbotron-fluid">
     <!--Header-->
     <nav class="navbar navbar-dark bg-dark font-weight-bold ">
-        <a class="navbar-brand mx-auto" href="<?php echo url_for('new/index.php')?>">Al Dave's Website</a>
+        <a class="navbar-brand mx-auto" href="<?php echo url_for('index.php')?>">Al Dave's Website</a>
     </nav>
     <!--Header-->
