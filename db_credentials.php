@@ -1,8 +1,8 @@
 <?php
 
-define("DB_SERVER", "sql105.epizy.com");
-define("DB_USER", "epiz_25771469");
-define("DB_PASS", "w6b0EfHThuOi");
-define("DB_NAME", "epiz_25771469_crud");
+const DB_SERVER = "127.0.0.1";
+const DB_USER = "root";
+const DB_PASS = "";
+const DB_NAME = "crud";
 
 ?>
